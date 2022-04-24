@@ -5,9 +5,9 @@ package main
 import (
 	"net"
 
-	"github.com/eycorsican/go-tun2socks/common/log"
-	"github.com/eycorsican/go-tun2socks/core"
-	"github.com/eycorsican/go-tun2socks/proxy/socks"
+	"github.com/std-object/go-tun2socks/common/log"
+	"github.com/std-object/go-tun2socks/core"
+	"github.com/std-object/go-tun2socks/proxy/socks"
 )
 
 func init() {
